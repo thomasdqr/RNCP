@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOSSIER RNCP</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="dossier-rncp---thomas-de-queiros---2019">DOSSIER RNCP - Thomas De Queiros - 2019</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="dossier-rncp---thomas-de-queiros---2019">DOSSIER RNCP - Thomas De Queiros - 2019</h1>
 <h1 id="flow---social-network">FLOW - Social Network</h1>
 <h2 id="sommaire">SOMMAIRE</h2>
 <ol>
@@ -635,4 +641,7 @@ La concaténation de ces divers éléments permet l’obtention d’un système 
 <em>Exemple de fonctionnement de l’onglet story</em></p>
 <p>Le fonctionnement de cette interface achevé, il a fallu par la suite relié le fonctionnement de ces différents services à de véritables échanges et sauvegardes de données sur le serveur. Pour cela, j’ai travaillé également sur la partie back-end de notre application et c’est son fonctionnement et les différentes réalisations opérées pour ce dernier que nous allons aborder dans la suite de ce dossier.</p>
 <h2 id="developpement-back-end">Developpement Back-end</h2>
+</div>
+</body>
 
+</html>
